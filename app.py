@@ -8,7 +8,7 @@ st.markdown("""
 <h1>🔬 AI Diagnostic Assistant</h1>
 <b>Sant Parmanand Hospital</b><br>
 <span style='font-size:14px; color:gray;'>
-<i>Supervised by Dr. Amin Jain</i><br>
+<i>Supervised by Dr. Ankit Jain</i><br>
 <i>Built by Principal Researcher <b>Govind Sharma</b>, M.Sc. AI in Medicine (2024–26), DPSRU</i>
 </span>
 <hr style="margin-top:10px; margin-bottom:20px;">
