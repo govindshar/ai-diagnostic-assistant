@@ -1,0 +1,4 @@
+# Prevent pushing sensitive data
+.streamlit/secrets.toml
+.env
+*.key
